@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/pablo-santoz-php-laravel-wordpress-fullstack" target="_blank">
+<a href="https://www.linkedin.com/in/uPablo" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:pablovdspe@gmail.com">
@@ -194,7 +194,7 @@ status: Open to Work - Senior / Tech Lead positions
 
 <br/>
 
-<a href="https://www.linkedin.com/in/pablo-santoz-php-laravel-wordpress-fullstack" target="_blank">
+<a href="https://www.linkedin.com/in/uPablo" target="_blank">
   <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:pablovdspe@gmail.com">

@@ -32,7 +32,7 @@
 ## :man_technologist: About Me
 
 ```yaml
-name: Pablo Vinicius dos Santos Pereira
+name: Pablo Santos
 role: Senior Full Stack Developer
 location: São José do Rio Preto - SP, Brazil
 experience: 18+ years in software development
